@@ -2,7 +2,7 @@
 Analyzing the Impact of Length of Stay on Mental Health Scores of International Students.
 
 # Project Overview
-This project explores how the length of stay affects the mental health diagnostic scores of international students. By analyzing PHQ-9 [Measures depression severity] (todep), SCS [Measures self-compassion and stress levels] (tosc), and ASISS[Assesses social anxiety and stress indicators] (toas) test scores, we aim to identify trends in mental well-being based on the duration of stay.
+This project explores how the length of stay affects the mental health diagnostic scores of international students. By analyzing PHQ-9 [Measures depression severity] (todep), SCS [Measures self-compassion and stress levels] (tosc), and ASISS[Assesses social anxiety and stress indicators] (toas) test scores, I aim to identify trends in mental well-being based on the duration of stay.
 
 ![Screenshot 2025-02-16 203331](https://github.com/user-attachments/assets/410bdc4a-d98a-4ba8-b072-d341cf2ffaab)
 
